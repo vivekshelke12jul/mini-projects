@@ -8,3 +8,4 @@
 rootProject.name = 'mini-projects'
 
 include 'calculator'
+include 'latticebacteria-puzzle'
